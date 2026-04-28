@@ -7,7 +7,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/pakkurthichandu-create/dev/tree/main
+    repoURL: https://github.com/pakkurthichandu-create/dev.git
     targetRevision: HEAD
     path: dev
   
